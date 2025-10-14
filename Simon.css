@@ -1,5 +1,6 @@
 body{
  text-align: center;
+ 
 }
 .btn{
   height: 100px;
@@ -11,7 +12,7 @@ body{
 .btn-container{
     display:  flex ;
     justify-content: center;
-   
+
 }
 .red{
  background-color: red;
@@ -25,8 +26,8 @@ body{
 }
 
 .purple{
- background-color: purple;
+ background-color: rgb(118, 54, 118);
 }
 .flash{
- background-color: white;
+ background-color: rgb(178, 245, 22);
 }
